@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Willkommen auf meinem GitHub
 
-<!--
-**BC2Maurice/BC2Maurice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+Ich bin Maurice, Inhaber und Entwickler von **Berlin City II**.
 
-Here are some ideas to get you started:
+Ich beschäftige mich hauptsächlich mit:
+- 🚓 FiveM Entwicklung
+- 💻 Lua & JavaScript
+- 🗄️ MySQL
+- 🎨 UI-Design (HTML, CSS)
+- ⚙️ Serververwaltung
+- 🤖 Discord Bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aktuelle Projekte
+
+### 🚨 Berlin City II
+Ein deutscher FiveM Roleplay Server mit Fokus auf Qualität, Performance und einzigartigen Features.
+
+### 🔧 Entwicklung
+- Eigene FiveM Scripts
+- Discord-Systeme
+- Web-Entwicklung
+- Server-Tools
+
+## Technologien
+
+- Lua
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Git
+- Linux
+
+## Links
+
+🌐 Website  
+https://berlincity2.tebex.io
+
+🎮 Discord  
+https://dcserver.link/berlincity2
+
+👤 Fakecrime  
+https://fakecrime.bio/Maurice
+
+---
+
+⭐ Danke für deinen Besuch auf meinem Profil!
